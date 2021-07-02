@@ -2,7 +2,7 @@
     {
         "Brand": "Honda",
         "ProductName": "Civic Sedan",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 27999.99,
         "MSRP": 24465.0,
         "QtyOnHand": 2,
@@ -12,7 +12,7 @@
     {
         "Brand": "Honda",
         "ProductName": "Accord Sedan",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 35999.99,
         "MSRP": 32570.0,
         "QtyOnHand": 1,
@@ -22,7 +22,7 @@
     {
         "Brand": "Honda",
         "ProductName": "HR-V",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 26999.99,
         "MSRP": 25200.0,
         "QtyOnHand": 2,
@@ -32,7 +32,7 @@
     {
         "Brand": "Honda",
         "ProductName": "Odyssey",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 45999.99,
         "MSRP": 43605.0,
         "QtyOnHand": 4,
@@ -42,7 +42,7 @@
     {
         "Brand": "Honda",
         "ProductName": "Clarity Plug-in Hybrid",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 48999.99,
         "MSRP": 44505.0,
         "QtyOnHand": 2,
@@ -52,7 +52,7 @@
     {
         "Brand": "Toyota",
         "ProductName": "Corolla",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 22999.99,
         "MSRP": 19350.0,
         "QtyOnHand": 5,
@@ -62,7 +62,7 @@
     {
         "Brand": "Toyota",
         "ProductName": "Prius",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 33999.99,
         "MSRP": 29150.0,
         "QtyOnHand": 3,
@@ -72,7 +72,7 @@
     {
         "Brand": "Toyota",
         "ProductName": "RAV4",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 29999.99,
         "MSRP": 28590.0,
         "QtyOnHand": 1,
@@ -82,7 +82,7 @@
     {
         "Brand": "Toyota",
         "ProductName": "Sienna",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 42999.99,
         "MSRP": 39990.0,
         "QtyOnHand": 4,
@@ -92,7 +92,7 @@
     {
         "Brand": "Toyota",
         "ProductName": "Tundra",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 49999.99,
         "MSRP": 47010.0,
         "QtyOnHand": 1,
@@ -102,7 +102,7 @@
     {
         "Brand": "Mercedes-Benz",
         "ProductName": "CLA",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 44999.99,
         "MSRP": 43600.0,
         "QtyOnHand": 2,
@@ -112,7 +112,7 @@
     {
         "Brand": "Mercedes-Benz",
         "ProductName": "AMG GT",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 121999.99,
         "MSRP": 119800.0,
         "QtyOnHand": 2,
@@ -122,7 +122,7 @@
     {
         "Brand": "Mercedes-Benz",
         "ProductName": "GLA",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 45999.99,
         "MSRP": 42400.0,
         "QtyOnHand": 1,
@@ -132,7 +132,7 @@
     {
         "Brand": "Mercedes-Benz",
         "ProductName": "G-CLASS",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 158999.99,
         "MSRP": 154900.0,
         "QtyOnHand": 1,
@@ -142,7 +142,7 @@
     {
         "Brand": "Mercedes-Benz",
         "ProductName": "CLS",
-        "GraphicName": "",
+        "GraphicName": "#",
         "CostPrice": 87999.99,
         "MSRP": 84100.0,
         "QtyOnHand": 1,
