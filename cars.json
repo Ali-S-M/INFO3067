@@ -1,0 +1,152 @@
+[
+    {
+        "Brand": "Honda",
+        "ProductName": "Civic Sedan",
+        "GraphicName": "",
+        "CostPrice": 27999.99,
+        "MSRP": 24465.0,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 1,
+        "Description": "For 2022, the Civic Sedan does not disappoint. Boasting a bright, spacious cabin carefully crafted to reduce noise for a more premium feeling ride, the full lineup includes sedan and hatchback models, each with its own unique look and one common purpose – to connect all the important elements of your life exactly the way you want them to."
+    },
+    {
+        "Brand": "Honda",
+        "ProductName": "Accord Sedan",
+        "GraphicName": "",
+        "CostPrice": 35999.99,
+        "MSRP": 32570.0,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 1,
+        "Description": "The Accord, like those who drive it, embraces change. We don’t just think about putting our drivers behind the wheel. We think about putting them behind pure dynamic power, with a striking, boldly designed exterior. When buckled in, you’re surrounded by style, performance and our latest available tech features. When you’re ready for more, the Accord is ready for you."
+    },
+    {
+        "Brand": "Honda",
+        "ProductName": "HR-V",
+        "GraphicName": "",
+        "CostPrice": 26999.99,
+        "MSRP": 25200.0,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 1,
+        "Description": "The 2021 HR-V is ready to pack in all the adventure you can handle. Along with a sporty, fun ride, you get the ability to bring it all while you do it all. Inside, it’s full of tech features like the Display Audio System with HondaLink Next Generation, or the available Honda Satellite-Linked Navigation System with bilingual Voice Recognition. There’s also added confidence behind the wheel thanks to Honda Sensing™ Technologies, standard on the 2021 HR-V. With a powerful frame accented by clean lines and robust curves, the 2021 HR-V is a sport utility vehicle, with an emphasis on sport."
+    },
+    {
+        "Brand": "Honda",
+        "ProductName": "Odyssey",
+        "GraphicName": "",
+        "CostPrice": 45999.99,
+        "MSRP": 43605.0,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 2,
+        "Description": "The updated 2021 Odyssey is here and it’s mighty impressive. Loaded with innovative features and technologies, the Odyssey is your source for convenience, connectivity and tons of fun. With the versatile Magic Slide 2nd-Row Seats, passenger accessibility and comfort is maximized. To keep everyone on board happy, the Odyssey impressively offers available AT&T Wi-Fi hotspot and an available advanced Rear Entertainment System with streaming capability. With the available CabinWatch and CabinTalk features, it’s easy to see and communicate with passengers in the rear seats. From information and entertainment to navigation and trip-enhancing convenience, this is one minivan that aims to impress you and any passengers on board."
+    },
+    {
+        "Brand": "Honda",
+        "ProductName": "Clarity Plug-in Hybrid",
+        "GraphicName": "",
+        "CostPrice": 48999.99,
+        "MSRP": 44505.0,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 0,
+        "Description": "Designed for fuel conservation, the Clarity looks anything but conservative. In fact, a bold, inspired aerodynamic body helps improve efficiencies. Like the airflow-enhancing rear air curtain ducts. Or the full LED headlights and LED taillights designed to bring a clear vision to the road and your followers. Even the 18 inch hybrid-aerodynamic aluminum-alloy wheels feature an aerodynamic design that helps optimize fuel consumption. The 2021 Clarity looks towards the future, and looks good doing it."
+    },
+    {
+        "Brand": "Toyota",
+        "ProductName": "Corolla",
+        "GraphicName": "",
+        "CostPrice": 22999.99,
+        "MSRP": 19350.0,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 3,
+        "Description": "With the sleek design, spirited driving dynamics, remarkable fuel efficiency, and state-of-the-art technology, the 2021 Corolla Family is your ever-ready partner that you can count on for all of life’s endeavours. With three models to choose from, including the reliable Corolla, fuel efficient Corolla Hybrid, and versatile Corolla Hatchback, there’s a model perfectly suited for your lifestyle."
+    },
+    {
+        "Brand": "Toyota",
+        "ProductName": "Prius",
+        "GraphicName": "",
+        "CostPrice": 33999.99,
+        "MSRP": 29150.0,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 1,
+        "Description": "The 2022 Prius continues the story of the most influential vehicles of our generation. From the way they look and the way they drive, they surprise at every turn. The premium and spacious interior is packed with intuitive technology designed to make your drive a whole lot easier and a lot more fun. Whether you choose the Prius hybrid or the Prius Prime plug-in hybrid, which can run on either electric or hybrid driving mode, you have two fuel-efficient models that overdeliver on performance and your expectations."
+    },
+    {
+        "Brand": "Toyota",
+        "ProductName": "RAV4",
+        "GraphicName": "",
+        "CostPrice": 29999.99,
+        "MSRP": 28590.0,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 1,
+        "Description": "The 2021 RAV4 and RAV4 Hybrid. Their stylish design paired with responsive driving dynamics and rugged capabilities open you up to a world of excitement, while keeping you prepared for the demands of modern life. With the reliable LE and XLE, refined Limited, capable Trail and TRD Off-Road Package, and Sporty Hybrid options, there’s a RAV4 for every appetite to help push you to your limits."
+    },
+    {
+        "Brand": "Toyota",
+        "ProductName": "Sienna",
+        "GraphicName": "",
+        "CostPrice": 42999.99,
+        "MSRP": 39990.0,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 2,
+        "Description": "With a category-defining look, the all-new redesigned 2021 Sienna has arrived. This versatile and spacious 7- or 8-seater is the first-ever Sienna with Hybrid Synergy Drive powertrain that delivers proven power, outstanding fuel efficiency, tremendous strength, and all-wheel drive capabilities. The best part? Choosing a model that fits your lifestyle. And with the Toyota Mobility Program, it’s available in two mobility models that can be converted for maximum accessibility."
+    },
+    {
+        "Brand": "Toyota",
+        "ProductName": "Tundra",
+        "GraphicName": "",
+        "CostPrice": 49999.99,
+        "MSRP": 47010.0,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 1,
+        "Description": "At Toyota, we think getting a truck should mean getting it all. We don’t think that the capacity to get the work done should come at the expense of the space you need to raise a family. We know that an aggressive and commanding exterior doesn’t have to be sacrificed for a premium and sophisticated interior. And we’re certain that cutting-edge technology doesn’t have to take a back seat to practical affordability. Over 80 years of innovation has gone into the 2021 Toyota Tundra - a half-ton of meticulously engineered heavy metal that proves a full-size pickup truck can have it all."
+    },
+    {
+        "Brand": "Mercedes-Benz",
+        "ProductName": "CLA",
+        "GraphicName": "",
+        "CostPrice": 44999.99,
+        "MSRP": 43600.0,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 1,
+        "Description": "What if every day could feel a little more special, and far less “everyday?” Wouldn’t that be beautiful? It doesn’t have to start with a trust fund or a lucky lottery ticket. Just find what suits and satisfies you, and wear it well. The CLA, for example, wraps innovations you’ll love in a shape you can’t resist. All at a price within reach. Style, it turns out, pairs very well with substance. And that’s a thing of beauty."
+    },
+    {
+        "Brand": "Mercedes-Benz",
+        "ProductName": "AMG GT",
+        "GraphicName": "",
+        "CostPrice": 121999.99,
+        "MSRP": 119800.0,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 0,
+        "Description": "It’s shaped by the ideal balance of its running gear. It’s built on an ideal balance of credentials and character. Every detail you can see in an AMG GT reveals traits you’ll revel in every time you drive."
+    },
+    {
+        "Brand": "Mercedes-Benz",
+        "ProductName": "GLA",
+        "GraphicName": "",
+        "CostPrice": 45999.99,
+        "MSRP": 42400.0,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 1,
+        "Description": "Even with small footprints, giant steps are possible. The most compact member of the Mercedes-Benz SUV family is completely redesigned for 2021. It packs fresh ideas into a stylish and spacious new body. And it’s even more eager to take on your ideas of spontaneous adventure and everyday fun. All with a commanding view of what’s ahead — on the road, and into a future you’ll be driving"
+    },
+    {
+        "Brand": "Mercedes-Benz",
+        "ProductName": "G-CLASS",
+        "GraphicName": "",
+        "CostPrice": 158999.99,
+        "MSRP": 154900.0,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 1,
+        "Description": "Funny thing about the names of most SUVs: They all sound like global wayfarers who’ve led lives of bold adventure. But if you want to express over 40 years of traveling to some of the most challenging places on all seven continents — and returning home safely — it only takes one letter: G. While it’s short for Geländewagen, or cross-country vehicle, it’s also the start of some of the most interesting stories on earth."
+    },
+    {
+        "Brand": "Mercedes-Benz",
+        "ProductName": "CLS",
+        "GraphicName": "",
+        "CostPrice": 87999.99,
+        "MSRP": 84100.0,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
+        "Description": "Tradition runs deep at Mercedes-Benz, but it’s no pond of reflection. More like rushing rapids, carving through stone and changing the course of history. That’s because there’s no stronger tradition under the Star than innovation — from setting new standards to starting new trends, without ever losing sight of what matters. By reinventing the coupe, the CLS has redefined the course of the four-door automobile."
+    }
+]
